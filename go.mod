@@ -1,4 +1,4 @@
-module mygoutil
+module github.com/formiko/mygoutil
 
 go 1.15
 
